@@ -1,2 +1,2 @@
 # test
-fro education
+for education
